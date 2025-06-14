@@ -1,6 +1,8 @@
 # 🚀 智能代理管理器 (Smart Proxy Manager)
 
 > 一款Chrome代理管理扩展，支持HTTP/HTTPS/SOCKS协议，快速切换，智能规则匹配。
+![image](https://github.com/user-attachments/assets/d1023649-0133-49d8-a68f-89e313f5d97a)
+
 
 **作者：Serim**
 
